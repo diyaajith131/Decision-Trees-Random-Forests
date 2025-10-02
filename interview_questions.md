@@ -1,4 +1,4 @@
-# Interview Questions: Decision Trees & Random Forests
+Frequently assking Questions: Decision Trees & Random Forests
 
 1. **How does a decision tree work?**  
    A decision tree splits the dataset into smaller subsets based on feature values. Each internal node represents a feature, branches represent decision rules, and leaves represent outcomes.
